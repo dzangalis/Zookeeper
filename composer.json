@@ -1,0 +1,18 @@
+{
+  "name": "dzangalis/test3",
+  "autoload": {
+    "psr-4": {
+      "Zoo\\": "Zoo/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dzangalis",
+      "email": "dzangalis@gmail.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^2.72",
+    "symfony/console": "^5.4"
+  }
+}
